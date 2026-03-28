@@ -2,12 +2,12 @@
   "name": "my-next-app",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
-    "start": "next start",
-    "lint": "eslint"
-  },
+"scripts": {
+  "dev": "next dev",
+  "build": "next build", 
+  "start": "next start",
+  "lint": "next lint"
+},
   "dependencies": {
     "chart.js": "^4.5.0",
     "lucide-react": "^0.540.0",
