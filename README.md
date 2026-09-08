@@ -2,7 +2,7 @@
 
 A modern, responsive healthcare dashboard web application designed to help medical professionals efficiently manage, monitor, and review patient data, diagnostics, and clinical metrics in one centralized interface.
 
-![Patients Dashboard Deployment](https://patientsdashboard.vercel.app)
+<img width="1717" height="916" alt="image" src="https://github.com/yehia-hossam/Patients-Dashboard/blob/main/Screen%20Shot.png" />  
 
 ---
 
