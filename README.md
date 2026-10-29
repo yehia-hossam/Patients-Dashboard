@@ -1,4 +1,4 @@
-# Patients Dashboard
+# Patients Dashboard.
 
 A modern, responsive healthcare dashboard web application designed to help medical professionals efficiently manage, monitor, and review patient data, diagnostics, and clinical metrics in one centralized interface.
 
